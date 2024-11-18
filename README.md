@@ -1,6 +1,6 @@
 # Personal Projects
 --
-## proj-ada: 
+## proj-ada(INP): 
 usage of Adaboost algorithm for identification of poisonous mushrooms
 
 ## proj-RCNN (INP): 
